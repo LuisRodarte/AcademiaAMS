@@ -1,0 +1,31 @@
+{
+	"data":{
+		"sections":[
+		{
+			"id":5,
+			"title": "terrific new",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article":"Lojkdjfjsdgskjgsjfjskdfjsdfkjsdkjgfjkgkjsgkjsjkgsfjkgkjsfgjsgkkjgskjsfjksdfs",
+		}
+		{
+
+		"id":6,
+			"title": "terrific new",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article":"Lojkdjfjsdgskjgsjfjskdfjsdfkjsdkjgfjkgkjsgkjsjkgsfjkgkjsfgjsgkkjgskjsfjksdfs",
+
+		}
+		{
+		"id":7,
+			"title": "terrific new",
+			"image": "http://pipsum.com/400x200.jpg",
+			"article":"Lojkdjfjsdgskjgsjfjskdfjsdfkjsdkjgfjkgkjsgkjsjkgsfjkgkjsfgjsgkkjgskjsfjksdfs",
+		}
+		],
+	"menu":[
+		{"id": 1, "title": "menu blog part"},
+		{"id": 2, "title": "menu blog part"},
+		{"id": 3, "title": "menu blog part"}
+	]
+	}
+}
